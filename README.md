@@ -30,6 +30,4 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
 
 
 
-=======
-# Llama-2-GGML-Medical-Chatbot
->>>>>>> 7c68ff5fb338efceaa495f371c4dc87bf5fab6e7
+
